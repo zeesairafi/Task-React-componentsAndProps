@@ -3,14 +3,20 @@
 
 ## Instructions
 
-Fork this repo and clone it then start working your magic 
+Fork this repo and clone it then start working your magic
+To make things easier 4 data files are provided, you can use any of them 🙏🏼
 
 ### 1. Create a React project with a theme of a tech shop 
 `yarn create react-app <app-name>`
-### 2. Create Three components 
-- [ ] Home
+### 2. Prepare VScode for React
+- [ ] Download ES7 React extenstion
+- [ ] Download Prettier extention
+- Both can be downloded by going to the 5th icon on the left in VSCode
+### 3. Create Three components 
+- [ ] Home - dont forget to use rfc shortcut!
 - [ ] ProductsList
-- [ ] Product (you can show whatever info you want!)
+- [ ] Product 
 - [ ] Dont forget to style your website
 
 ### 3. Push your code to git 
+Show us what you did 😍😍😍
