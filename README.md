@@ -8,6 +8,8 @@ To make things easier 4 data files are provided, you can use any of them ğŸ™ğŸ
 
 ### 1. Create a React project with a theme of a tech shop 
 `yarn create react-app <app-name>`
+then go inside the project `cd <app-name>`
+then start it `yarn start`
 ### 2. Prepare VScode for React
 - [ ] Download ES7 React extenstion
 - [ ] Download Prettier extention
