@@ -35,3 +35,5 @@ const memoriesData = [
         photo: "https://gate.ahram.org.eg/Media/News/2020/10/27/19_2020-637393932273443981-344.jpg"
     }
 ];
+
+export default memoriesData;
